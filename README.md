@@ -1,6 +1,9 @@
 ![](./resources/official_armmbed_example_badge.png)
 # Blinky Mbed OS example
 
+For #define codes look: https://infineon.github.io/TARGET_CY8CPROTO-062-4343W/html/group__group__bsp__pins__led.html#gac65ecaf66ac3c548b9b055da01753471
+
+
 The example project is part of the [Arm Mbed OS Official Examples](https://os.mbed.com/code/) and is the [getting started example for Mbed OS](https://os.mbed.com/docs/mbed-os/latest/quick-start/index.html). It contains an application that repeatedly blinks an LED on supported [Mbed boards](https://os.mbed.com/platforms/).
 
 You can build the project with all supported [Mbed OS build tools](https://os.mbed.com/docs/mbed-os/latest/tools/index.html). However, this example project specifically refers to the command-line interface tool [Arm Mbed CLI](https://github.com/ARMmbed/mbed-cli#installing-mbed-cli).
